@@ -1,0 +1,64 @@
+body { 
+	background-color: rgb(240, 240, 240);
+	color: rgb (20, 20, 20);
+	font-family: "Montserrat", sans-serif;
+ }
+
+ #banner {
+	background-image: url(https://images.pexels.com/photos/1089842/pexels-photo-1089842.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+	height: 70vh;
+	background-size: cover;
+
+}
+
+
+#title {
+	color: #3E5E6B;
+	font-family:"Montserrat", sans-serif;
+	letter-spacing: 3px;
+	font-size: 30px;
+	padding-top: 120px;
+	font-weight: bolder;
+	}
+#subtitle {
+	color: #3E5E6B;
+	font-family:"Montserrat", sans-serif;
+	letter-spacing: 2px;
+	font-size: 20px;
+	padding-top: 20px;
+		
+}
+#photo {
+
+	border: "";
+}
+a {
+	text-decoration: none;
+	color: #3E5E6B;
+
+
+}
+a:hover {
+	text-decoration: none;
+
+}
+p {font-family: "Montserrat", sans-serif;}
+
+.small 
+{
+	font-size: 30px;
+	font-family: "Source Sance Pro", sans-serif;
+	padding-bottom: 50px;
+	padding-right: 50px
+	padding-left: 50px;
+}
+
+h3 {font-size: 20px;}
+
+#footer a {
+  color: black;
+  font-size: 30px;
+}
+#footer a:hover {
+  color: grey;
+}
